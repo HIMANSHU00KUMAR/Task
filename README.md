@@ -1,3 +1,7 @@
+
+
+https://github.com/user-attachments/assets/27c5ca08-7fb3-4d32-a960-1c5d46ee625d
+
 # Dynamic Calculation Form
 
 A modern React form application that handles both API-loaded and manually entered data with automatic calculations.
